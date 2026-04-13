@@ -1,0 +1,207 @@
+{
+  "main": {
+    "id": "b399df7e68cfc9b9",
+    "type": "split",
+    "children": [
+      {
+        "id": "d76c452d0caa8d26",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "58183776911f3dde",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f37709014ab01cf8",
+    "type": "split",
+    "children": [
+      {
+        "id": "cf3cc7005a842169",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "63c742df7d268a6b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "eaec12648cc170d8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "91caabd22841e45c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "0634a318ffcad615",
+    "type": "split",
+    "children": [
+      {
+        "id": "ff4da6e2dd379484",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fe8763694f91e1ab",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "JS.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for JS"
+            }
+          },
+          {
+            "id": "05335be76cca2845",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "JS.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from JS"
+            }
+          },
+          {
+            "id": "cffbe9707e49146d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "ac750fcd1adfd71e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "JS.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of JS"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "58183776911f3dde",
+  "lastOpenFiles": [
+    "reverse() vs reversed().md",
+    "pY.md",
+    "Instance methods, variables vs class variables, method.md",
+    "Operator Overloading.md",
+    "Method Overriding.md",
+    "Super keywords.md",
+    "OOPs in Py.md",
+    "Enumerate vs. .items.md",
+    "ENCAPSULATION.md",
+    "dir, __dict__, help().md",
+    "Decorators.md",
+    "Constructors.md",
+    "Class methods as alt constructors.md",
+    "Access Modifiers & Types.md",
+    "Magic,Dunder methods.md",
+    "MRO & The Diamond Problem.md",
+    "Name Mangling.md",
+    "Static Methods.md",
+    "INHERITANCE.md",
+    "Pillars of OOPS.md",
+    "ABSTRACTION.md",
+    "POLYMORPHISM.md",
+    "Getters and Setters.md",
+    "recursion.md",
+    "Walrus Operator.md",
+    "Time Module.md",
+    "Untitled.base",
+    "Pasted image 20260322021324.png",
+    "Pasted image 20260322012037.png",
+    "Pasted image 20260308181508.png",
+    "Pasted image 20260308180751.png",
+    "Pasted image 20260308164905.png",
+    "Pasted image 20260308163836.png",
+    "Pasted image 20260302012040.png",
+    "Pasted image 20260302011119.png",
+    "Pasted image 20260302005513.png",
+    "Pasted image 20260302003309.png",
+    "Backend Dev",
+    "Untitled",
+    "Untitled 1.canvas",
+    "Untitled.canvas"
+  ]
+}
