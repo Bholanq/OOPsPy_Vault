@@ -1,0 +1,5 @@
+[[if __name__ == __main__]]
+[[Time Module]]
+[[Walrus Operator]]
+[[recursion]]
+[[reverse() vs reversed()]]
